@@ -31,7 +31,8 @@
 }
 ```
 
-想让prettier生效
+### 想让prettier生效
+
 1.vscode打开prettier插件<br/>
 2.`.vscode/settings.json` 开启保存自动格式化<br/>
 ```JSON
