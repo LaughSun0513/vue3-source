@@ -4,14 +4,14 @@
 ```
 |____packages
 | |____compiler-core
+| |____compiler-dom
+| |____runtime-core
 | |____runtime-dom
+| |____reactivity
+| |____shared
 | |____vue
 | | |____src
 | | | |____index.ts
-| |____shared
-| |____reactivity
-| |____runtime-core
-| |____compiler-dom
 |____package.json
 |____rollup.config.js
 |____.prettierrc
