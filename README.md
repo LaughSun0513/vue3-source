@@ -59,9 +59,9 @@ typescript
 1.入口 `input: 'packages/vue/src/index.ts'`<br/>
 2.出口 `file: './packages/vue/dist/vue.js'`<br/>
 3.插件 <br/>
-> @rollup/plugin-node-resolve 模块导入路径补全
-> @rollup/plugin-commonjs 转commonjs为ESM
-> @rollup/plugin-typescript 处理ts
+> @rollup/plugin-node-resolve 模块导入路径补全<br/>
+> @rollup/plugin-commonjs 转commonjs为ESM<br/>
+> @rollup/plugin-typescript 处理ts<br/>
 
 ```js
 import resolve from '@rollup/plugin-node-resolve'
